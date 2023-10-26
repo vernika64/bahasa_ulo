@@ -1,5 +1,5 @@
 # TULISAN BAHASA ULO
 
-mungkin ada yang anda cari ada disini wkw
-- pembagian tanpa op
-pembagian tanpa operator pembagian
+mungkin ada yang anda cari ada disini wkwk
+## pembagian_tanpa_op.py
+pembagian tanpa operator `/`
